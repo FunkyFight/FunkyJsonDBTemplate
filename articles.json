@@ -1,5 +1,5 @@
 {
-    articles: [
+    "articles": [
         {
             "title": "How This Man Won $1'000'000 in Three Days",
             "author": "Michelle Duclaire",
@@ -19,7 +19,7 @@
             "link": "domain.com?article=Z3RF7"
         }
     ],
-    contacts: [
+    "contacts": [
         {
             "email": "email1@gmail.com",
             "title": "About copyright...",
