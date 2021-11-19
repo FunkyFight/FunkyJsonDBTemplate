@@ -1,0 +1,34 @@
+{
+    articles: [
+        {
+            "title": "How This Man Won $1'000'000 in Three Days",
+            "author": "Michelle Duclaire",
+            "tags": ["wonderful", "money", "$1000000", "rich", "millionaire"],
+            "link": "domain.com?article=A15E0"
+        },
+        {
+            "title": "This Generous Kid Will Shock You",
+            "author": "Henry Tryfous",
+            "tags": ["generosity", "kid", "good act"],
+            "link": "domain.com?article=EAEF4"
+        },
+        {
+            "title": "This technique will decongest your nose!",
+            "author": "Michelle Duclaire",
+            "tags": ["medecine", "bio", "nose", "congestion"],
+            "link": "domain.com?article=Z3RF7"
+        }
+    ],
+    contacts: [
+        {
+            "email": "email1@gmail.com",
+            "title": "About copyright...",
+            "content": "Hello, I would like you to delete the video included in one of your articles, it contains my music and I didn't allowed you to use that."
+        },
+        {
+            "email": "email2@gmail.com",
+            "title": "Journalist Application",
+            "content": "Hi, where can I send you my application for the job of Journalist? Thanks you."
+        }
+    ]
+}
